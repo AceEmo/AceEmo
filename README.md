@@ -4,7 +4,7 @@
 
 ### Web App Development:
 - **Frontend:** JavaScript, HTML & CSS
-- **Backend:** Spring (Java) *(in process)*
+- **Backend:** Spring(boot)(Java) *(in process)*
 - **Databases:** MySQL
 
 ### Game Development:
